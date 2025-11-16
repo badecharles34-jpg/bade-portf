@@ -16,10 +16,10 @@ export const metadata: Metadata = {
     title: "Bade Prince – Graphiste Miniamaker",
     description: "Expert en miniatures YouTube – 4 ans d’expérience en graphisme.",
     type: "website",
-    url: "https://your-domain.com", // Replace with actual domain on deployment
+    url: "https://bade-prince-portfolio.vercel.app", // Replace with actual domain on deployment
     images: [
       {
-        url: "https://your-domain.com/og-image.jpg", // Replace with an actual OG image URL
+        url: "/og-image.jpg", // Replace with an actual OG image URL
         width: 1200,
         height: 630,
         alt: "Bade Prince Portfolio",
